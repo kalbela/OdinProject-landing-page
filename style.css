@@ -16,6 +16,12 @@ body {
     width: 85%;
 }
 
+.small-container {
+    max-width: 1000px;
+    margin: auto;
+    width: 85%;
+}
+
 /* #### header ### */
 
 .header {
