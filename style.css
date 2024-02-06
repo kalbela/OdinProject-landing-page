@@ -155,3 +155,38 @@ body {
 .name {
     text-align: right;
 }
+
+/* ### sign up section #### */
+
+.sign-up {
+    background: #cadad15d;
+    padding: 80px 0 50px 0;
+    border-bottom: 1px solid #4f6f521a;
+}
+
+.sign-up .container {
+    color: #4f6f52ec;
+    background: #d2e3c83d;
+    border: 1px solid #4f6f5279;
+    border-radius: 5px;
+}
+
+.sign-up .container .small-container {
+    display: flex;
+    padding: 30px 0;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left p:first-child {
+    font-weight: 600;
+}
+
+.sign-up-btn {
+    text-decoration: none;
+    color: #4f6f52ec;
+    padding: 8px 30px;
+    background: #ffffff75;
+    border: 1px solid #97a79979;
+    border-radius: 5px;
+}
