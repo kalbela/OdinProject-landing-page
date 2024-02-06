@@ -142,3 +142,16 @@ body {
     border: 2px solid #4f6f5270;
     border-radius: 5px;
 }
+
+/* ###### testimonial #### */
+
+.testimonial {
+    background: #cdddd53f;
+    padding: 70px 0 50px 0;
+    border-bottom: 1px solid #4f6f521a;
+    color: #4f6f52de;
+}
+
+.name {
+    text-align: right;
+}
