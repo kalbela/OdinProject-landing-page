@@ -25,7 +25,7 @@ body {
 /* #### header ### */
 
 .header {
-    background: #eaeeec;
+    background: #eaeeec9c;
     padding: 20px 0 50px 0;
     border-bottom: 1px solid #4f6f521a;
 }
@@ -104,7 +104,7 @@ body {
 /* ###### information section #### */
 
 .information {
-    background: #c8dbd231;
+    background: #bed4ca31;
     padding: 35px 0 50px 0;
     border-bottom: 1px solid #4f6f521a;
 }
@@ -146,7 +146,7 @@ body {
 /* ###### testimonial #### */
 
 .testimonial {
-    background: #cdddd53f;
+    background: #c4dbd03f;
     padding: 70px 0 50px 0;
     border-bottom: 1px solid #4f6f521a;
     color: #4f6f52de;
