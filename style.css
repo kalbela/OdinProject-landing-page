@@ -209,4 +209,10 @@ body {
     font-size: 14px;
     color: #867c7b;
 }
-    
+
+
+@media (max-width: 530px) {
+    .links {
+        display: none;
+    }
+}
