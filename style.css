@@ -190,3 +190,16 @@ body {
     border: 1px solid #97a79979;
     border-radius: 5px;
 }
+
+/* ##### footer ##### */
+
+
+.footer {
+    background: #eaeeec9c;
+    padding: 20px 0 10px 0;
+    text-align: center;
+    border-bottom: 1px solid #4f6f521a;
+    font-size: 14px;
+    color: #867c7b;
+}
+    
